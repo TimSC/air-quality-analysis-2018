@@ -1,0 +1,6 @@
+[submodule "pyo5m"]
+	path = pyo5m
+	url = git@github.com:TimSC/pyo5m.git
+[submodule "ostn02python"]
+	path = ostn02python
+	url = git@github.com:TimSC/ostn02python.git
